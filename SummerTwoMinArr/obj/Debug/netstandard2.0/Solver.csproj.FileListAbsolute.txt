@@ -1,0 +1,8 @@
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\bin\Debug\netstandard2.0\Solver.deps.json
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\bin\Debug\netstandard2.0\Solver.dll
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\bin\Debug\netstandard2.0\Solver.pdb
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\obj\Debug\netstandard2.0\Solver.AssemblyInfoInputs.cache
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\obj\Debug\netstandard2.0\Solver.AssemblyInfo.cs
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\obj\Debug\netstandard2.0\Solver.dll
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\obj\Debug\netstandard2.0\Solver.pdb
+C:\Users\fiepa\source\repos\ByndyuBackend\SummerTwoMinArr\obj\Debug\netstandard2.0\Solver.csprojAssemblyReference.cache

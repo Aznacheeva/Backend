@@ -1,0 +1,9 @@
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\bin\Debug\ByndyuBackend.exe.config
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\bin\Debug\ByndyuBackend.exe
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\bin\Debug\ByndyuBackend.pdb
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\bin\Debug\Solver.dll
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\bin\Debug\Solver.pdb
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\obj\Debug\ByndyuBackend.csprojAssemblyReference.cache
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\obj\Debug\ByndyuBackend.csproj.CopyComplete
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\obj\Debug\ByndyuBackend.exe
+C:\Users\fiepa\source\repos\ByndyuBackend\ByndyuBackend\obj\Debug\ByndyuBackend.pdb
